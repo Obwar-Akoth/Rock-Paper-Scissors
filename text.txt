@@ -1,0 +1,2 @@
+This is Rock-Paper-Scissors that i have created with the help of several youtube videos that I watched in order to understand the concept.
+Please feel free to correct any errors in order to help me build my coding skills a notch higher.
